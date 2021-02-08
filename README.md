@@ -1,5 +1,8 @@
-### Hi there 👋 I am Hyunsung Kim.
+### Hi there 👋 I'm Hyunsung Kim.
 
+- 🌱 I’m currently learning functional data analysis.
+- 📝 I sometimes write on my personal blog about statistics, R, etc. **https://statkim.github.io/**
+- 📫 How to reach me: **hyunsung1021@gmail.com**
 <!--
 **statKim/statKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=statKim&show_icons=true&locale=en" alt="statKim" />
+  </p>
+</div>
