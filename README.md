@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Hyunsung Kim.
 
-- 🌱 I’m currently learning functional data analysis.
-- 📝 I sometimes write on my personal blog about statistics, R, etc. **https://statkim.github.io/**
+- 🌱 I’m currently learning Functional data analysis.
+- 📝 I sometimes write on my personal blog (**https://statkim.github.io/**) about Statistics, R, etc.
 - 📫 How to reach me: **hyunsung1021@gmail.com**
 <!--
 **statKim/statKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=statKim&show_icons=true&locale=en" alt="statKim" />
-  </p>
-</div>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=statKim&show_icons=true&locale=en" alt="statKim" />
+</p>
