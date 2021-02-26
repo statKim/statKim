@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=statKim&show_icons=true&locale=en" alt="statKim" />
 </p>
+-->
