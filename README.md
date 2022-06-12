@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hyunsung Kim.
 
-- 🌱 I’m currently learning Functional data analysis.
+- 🌱 I’m currently trying to develop the statistical methods applicable to the manifold-valued functional data.
 - 📝 I sometimes write on my personal blog (**https://statkim.github.io/**) about Statistics, R, etc.
 - 📫 How to reach me: **hyunsung1021@gmail.com**
 <!--
